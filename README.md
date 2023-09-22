@@ -10,7 +10,7 @@
 
 ## Description 
 
-[Visit the Deployed Site](antedbell20.github.io/challenge1)
+[Visit the Deployed Site](https://antedbell20.github.io/challenge1)
 
 My motivation for making this site was to further my knowledge of html and css. I built this project to practice my knowledge that i aquired during this course this far. This porject cleaned up the look of the code and made it easier to read for a future developer. I learned the proper way to set up the code and how to go through and fix code that isn't necessarily broken, but very messy and confusing to read. 
 
